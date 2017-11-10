@@ -1,0 +1,22 @@
+{
+  "name": "create-github-labels",
+  "version": "1.0.0",
+  "description": "Auto generate labels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akaj-team/create-github-labels.git"
+  },
+  "author": "Tien Hoang N. <tien.hoang@asiantech.vn>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akaj-team/create-github-labels/issues"
+  },
+  "homepage": "https://github.com/akaj-team/create-github-labels#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}

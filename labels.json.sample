@@ -1,0 +1,60 @@
+{
+  "create": [
+    {
+      "name": "[Status] 01 - New",
+      "color": "e3f2fd"
+    },
+    {
+      "name": "[Status] 02 - In-progress",
+      "color": "90caf9"
+    },
+    {
+      "name": "[Status] 03 - Review-needed",
+      "color": "5319e7"
+    },
+    {
+      "name": "[Status] 04 - Reviewed",
+      "color": "1e88e5"
+    },
+    {
+      "name": "[Status] 05 - Resolved",
+      "color": "CEF6EC"
+    },
+    {
+      "name": "[Status] 06 - Testing",
+      "color": "81F7BE"
+    },
+    {
+      "name": "[Status] 07 - Reopened",
+      "color": "d93f0b"
+    },
+    {
+      "name": "[Status] 08 - Done",
+      "color": "04B486"
+    },
+    {
+      "name": "[Status] 09 - Wontfix",
+      "color": "fef2c0"
+    },
+    {
+      "name": "[Status] 10 - Pending",
+      "color": "fbca04"
+    },
+    {
+      "name": "[Type] 01 - Task",
+      "color": "cfd8dc"
+    },
+    {
+      "name": "[Type] 02 - Bug",
+      "color": "d93f0b"
+    },
+    {
+      "name": "[Type] 03 - Question",
+      "color": "fbca04"
+    },
+    {
+      "name": "[Type] 04 - Bug Client",
+      "color": "263238"
+    }
+  ]
+}
